@@ -53,7 +53,7 @@ Architected and deployed a secure VPN solution with traffic inspection and audit
 ## 💼 Experience
 
 **Web Developer Intern**  
-Sedani Digital Private Limited (April 2023 – Present)  
+Sedani Digital Private Limited (April 2023 – April 2025)  
 - Contributed to various web-based tools and applications
 - Backend & frontend development, deployment, and maintenance
 - Improved internal processes with automation and server management
